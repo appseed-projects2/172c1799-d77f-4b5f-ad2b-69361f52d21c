@@ -1,0 +1,5 @@
+{
+    "name": "app/static/apps/172c1799-d77f-4b5f-ad2b-69361f52d21c",
+    "type": "fullstack",
+    "dirs": "api-server-nodejs, react-ui"
+}
